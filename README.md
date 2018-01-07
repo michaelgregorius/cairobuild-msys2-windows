@@ -1,5 +1,6 @@
 # Build script for a static Cairo library under Windows with MSYS2
 ![Cairo banner](https://cairographics.org/cairo-banner.png)
+
 This build script builds a static version of the Cairo graphics library under Windows using MSYS2. It builds the following libraries:
    - ZLib
    - Libpng
